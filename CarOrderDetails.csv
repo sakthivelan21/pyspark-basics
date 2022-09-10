@@ -1,0 +1,11 @@
+OrderId,Car Name,OrderDate,CustomerId
+1,BMW iX,8/24/2022,3
+2,Rolls Royce Ghost,8/25/2022,1
+3,Audi RS7,8/26/2022,5
+4,Lamborghini Huracan,8/27/2022,2
+5,Mustang,8/28/2022,6
+6,Ferrari,8/29/2022,4
+7,Benz,8/30/2022,3
+8,Jaguar,8/31/2022,5
+9,Tesla Model x,9/1/2022,2
+10,Buggati Chiron,9/2/2022,2
